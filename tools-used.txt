@@ -1,0 +1,20 @@
+Tools Used – Task 5: Packet Sniffer Tool
+
+Programming Language:
+- Python
+
+Libraries:
+- Scapy (for packet capturing and analysis)
+
+Software & Environment:
+- Windows OS
+- Command Prompt / VS Code
+- Npcap (for packet capture support)
+
+Concepts Used:
+- TCP/IP Protocol
+- IP Addressing
+- Network Packet Structure
+- Port Numbers
+- Basic Network Monitoring
+- Ethical Cybersecurity Practices
