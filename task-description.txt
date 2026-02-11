@@ -1,0 +1,13 @@
+Task 5: Packet Sniffer Tool
+
+Task Description:
+Develop a packet sniffer tool that captures and analyzes network packets. The tool should display relevant information such as source IP address, destination IP address, protocol type, and port numbers.
+
+Implementation:
+In this project, I developed a basic packet sniffer using Python and the Scapy library. The tool captures a limited number of packets and extracts header-level information including IP addresses, protocol type (TCP/UDP), ports, and packet size.
+
+Purpose:
+The purpose of this task was to understand how network packets are structured and how packet capturing works in real-world networking environments.
+
+Note:
+This project was developed strictly for educational purposes and tested only in an authorized environment.
